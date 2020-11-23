@@ -24,6 +24,6 @@ def most_common(acc = []):
     
     return Counter(acc).most_common(10)
     
-print(most_common())
+print(most_common()) # [('w', 248), ('z', 235), ('nie', 213), ('się', 171), ('na', 167), ('i', 141), ('Nie', 111), ('I', 91), ('A', 86), ('do', 79)]
 
 # Autor Wiktor Maj
