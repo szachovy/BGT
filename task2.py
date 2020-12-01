@@ -37,7 +37,7 @@ class Common_Nouns(object):
         print(self.res[:3])
         
     def most_common(self, acc=[]):
-        for poem in range(1, 10):
+        for poem in range(1, 71):
             req = requests.get("https://literat.ug.edu.pl/roxolan/00{}.htm".format(poem)) if poem < 10 else requests.get("https://literat.ug.edu.pl/roxolan/0{}.htm".format(poem))
             text = BeautifulSoup(req.content, "lxml").text.split()
             self.acc += text[2:len(text)-2]
