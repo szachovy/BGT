@@ -10,6 +10,7 @@
 # Zadanie należy rozwiązać w parach z zastosowaniem dowolnej technologii.
 # Należy wybrać autora, którego dzieła nie są chronione prawami autorskimi.
 
+#Teofil Lenartowicz
 from bs4 import BeautifulSoup
 import requests
 
