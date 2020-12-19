@@ -16,7 +16,8 @@
 #Należy wybrać autora, którego dzieła nie są chronione prawami autorskimi.
 #- użyć repo z poprzenidch ćwiczen
 #- Porównać czas egzekucji ćwiczenia 02 i ćwiczenia 03; wyniki pomiarów wrzucić na repozytorium
-        
+
+#Szymon Zimorowic
 from bs4 import BeautifulSoup
 import requests
 from collections import Counter
