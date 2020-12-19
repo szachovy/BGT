@@ -21,6 +21,7 @@
 # - użyć repo z poprzenidch ćwiczen		
 # - Proszę wkomitować przykładowy wynik działa programu (video, zrzut ekranu, log, etc.)		
 
+#Szymon Zimorowic
 from bs4 import BeautifulSoup
 import requests
 from collections import Counter
