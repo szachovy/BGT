@@ -13,7 +13,8 @@
 #Należy wybrać autora, którego dzieła nie są chronione prawami autorskimi.
 
 
-        
+#Szymon Zimorowic        
+
 from bs4 import BeautifulSoup
 from collections import Counter
 from googletrans import Translator
