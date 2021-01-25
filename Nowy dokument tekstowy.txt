@@ -1,0 +1,17 @@
+wymagania: https://nodejs.org/en/download/
+npm install -g @angular/cli
+npm install primeng --save
+npm install primeicons --save
+
+wymagania https://www.anaconda.com/products/individual
+https://hub.docker.com/editions/community/docker-ce-desktop-windows/
+
+docker build . -t license_plate_img
+pip install django
+pip install djangorestframework
+pip install django-cors-headers
+pip install django-extensions
+pip install psycopg2
+pip install djangorestframework-jwt
+pip install gusregon
+pip install opencv-python
